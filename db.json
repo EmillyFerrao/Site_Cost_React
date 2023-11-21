@@ -1,0 +1,70 @@
+{
+  "Projects": [
+    {
+      "name": "novo projeto",
+      "budget": "5000",
+      "category": {
+        "id": "4",
+        "name": "Planejamento"
+      },
+      "cost": null,
+      "services": [
+        {
+          "name": "novo projeto",
+          "cost": "599",
+          "description": "veremossssssssssssssss",
+          "id": "53746529-d10d-43d8-a0f3-23a192ed453c"
+        },
+        {
+          "name": "Emilly Ferrão",
+          "cost": "599",
+          "description": "5erggf",
+          "id": "6dad73b4-4008-4306-9130-7e8dff215830"
+        },
+        {
+          "name": "Carro",
+          "cost": "788",
+          "description": "veremossssssssssssssss",
+          "id": "bfb004b7-3ebe-4f1f-9fa5-04f079a8481f"
+        }
+      ],
+      "id": 2
+    },
+    {
+      "name": "Projeto Mercado",
+      "budget": "4000",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 600,
+      "services": [
+        {
+          "name": "projeto mercado materiais",
+          "cost": "600",
+          "description": "inserir os produtos no site",
+          "id": "617d9ef8-75fa-4c9e-8ef6-6bebd55b8d82"
+        }
+      ],
+      "id": 4
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Infra"
+    },
+    {
+      "id": 2,
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": 3,
+      "name": "Design"
+    },
+    {
+      "id": 4,
+      "name": "Planejamento"
+    }
+  ]
+}
